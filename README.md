@@ -1,3 +1,3 @@
 # Simon-Says
 
-Deployed:
+Deployed: https://cwilkison.github.io/Simon-Says/
